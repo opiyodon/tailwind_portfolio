@@ -1,0 +1,34 @@
+colors: {
+        pri:'#dc2626',/**red-600 color */
+        pri2:'#9333ea',/**purple-600 color */
+        pri3:'#eab308',/**yellow-500 color */
+        pri4:'#2563eb',/**blue-600 color */
+        pri5:'#16a34a',/**green-600 color */
+
+
+
+        light_bg_bright:'#f3f4f6',/**gray-100 color */
+        dark_bg_bright:'#f3f4f6',/**gray-100 color */
+
+        light_bg_dim:'#e5e7eb',/**gray-200 color */
+        dark_bg_dim:'#e5e7eb',/**gray-200 color */
+
+
+
+        light_border_bright:'#d1d5db',/**gray-300 color ===for aside borders and MAIN personal info underlines*/
+        dark_border_bright:'#d1d5db',/**gray-300 color ===for aside borders and MAIN personal info underlines*/
+
+        light_border_dim:'#374151',/**gray-700 color ===for main border*/
+        dark_border_dim:'#374151',/**gray-700 color ===for main border*/
+
+
+
+        light_txt:'#374151',/**dark gray-700 color===for general texts */
+        dark_txt:'#374151',/**dark gray-700 color===for general texts */
+
+        light_txt1:'#4b5563',/**dark gray-600 color===for skills level */
+        dark_txt1:'#4b5563',/**dark gray-600 color===for skills level */
+
+        light_txt2:'#9ca3af',/**dark gray-400 color===for subtitles */
+        dark_txt2:'#9ca3af',/**dark gray-400 color===for subtitles */
+      },
